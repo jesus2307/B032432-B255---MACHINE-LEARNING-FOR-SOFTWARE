@@ -1,5 +1,5 @@
 # B032432-B255---MACHINE-LEARNING-FOR-SOFTWARE
-# 📌 Descripción del Proyecto
+# Descripción del Proyecto
 
 Este proyecto implementa un **modelo de autocompletado de código basado en redes neuronales recurrentes (RNN)**, específicamente utilizando **LSTM bidireccionales**. Se entrena con fragmentos de código y puede predecir la continuación más probable de una secuencia dada.
 
