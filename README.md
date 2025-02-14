@@ -14,7 +14,6 @@ Este proyecto implementa un **modelo de autocompletado de código basado en rede
 - **Genera secuencias de entrenamiento** de 30 tokens de longitud.
 - **Guarda los datos procesados en `processed_data.txt`** (no en `processed_data.pt`).
 
- **Nota:** Aunque `preprocessing.py` menciona `processed_data.pt`, este archivo no se usa en el flujo real del proyecto.
 
 ---
 
