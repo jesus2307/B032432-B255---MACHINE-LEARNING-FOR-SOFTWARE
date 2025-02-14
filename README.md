@@ -12,7 +12,7 @@ Este proyecto implementa un **modelo de autocompletado de código basado en rede
 - **Tokeniza el código**, transformándolo en una secuencia de tokens.
 - **Construye un vocabulario** donde cada token recibe un índice.
 - **Genera secuencias de entrenamiento** de 30 tokens de longitud.
-- **Guarda los datos procesados en `processed_data.txt`** (no en `processed_data.pt`).
+- **Guarda los datos procesados en `processed_data.txt`** (no en `processed_data.txt`).
 
 
 ---
