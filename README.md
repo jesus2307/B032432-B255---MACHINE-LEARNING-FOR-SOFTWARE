@@ -38,7 +38,7 @@ Este proyecto implementa un **modelo de autocompletado de código basado en rede
 - **Realiza predicciones sobre datos de validación**.
 - **Calcula métricas de rendimiento**, como pérdida y precisión.
 
-📌 **Herramientas usadas:** `torch.nn.CrossEntropyLoss`, `torch.argmax` para evaluar precisión.
+ **Herramientas usadas:** `torch.nn.CrossEntropyLoss`, `torch.argmax` para evaluar precisión.
 
 ---
 
